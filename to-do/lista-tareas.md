@@ -1,11 +1,11 @@
 # Tareas pendientes
 
 
-- [ ] Agregar las invetigaciones realizadas al anteproyecto
+- [ ] Agregar las investigaciones realizadas al anteproyecto
   - Estado: Iniciada
   - Fecha: 2024-11-19
 
-- [] Tarea 2
+- [ ] Tarea 2
   - Estado: Completada
   - Fecha: 2024-11-18
 
