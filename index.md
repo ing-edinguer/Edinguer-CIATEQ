@@ -8,6 +8,7 @@ Repositorio para dar seguimiento al proyecto de tesis doctoral.
 ## [Referencias consultadas](consultas/consultas.md)
 ## [Referencias definitivas](ref/referencias.md)
 
+## [Diagrama de bloques del proceso](proceso/proceso-gral.md)
 
 
 Me estoy apoyando con Notion cuya página es: [private]
