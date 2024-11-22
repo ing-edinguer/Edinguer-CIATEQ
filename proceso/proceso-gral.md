@@ -1,11 +1,12 @@
 ```mermaid
-graph TD;
-    A[Enter Chart Definition] --> B(Preview);
-    B --> C{decide};
-    C --> D[Keep];
-    C --> E[Edit Definition];
-    E --> B;
-    D --> F[Save Image and Code];
-    F --> B;
-
+graph LR
+    A[TÍTULO DE LA TESIS] --> B(Definir
+Exoesqueleto)
+    B --> C( )
+    C --> D[ ]
+    C --> E[ ]
+    E --> B
+    D --> F[ ]
+    F --> B
+```
 [Inicio](../index.md)
